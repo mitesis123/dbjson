@@ -1,0 +1,41 @@
+[
+    {
+        "nombre": "Medicamento1",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento2",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento3",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento4",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento5",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento6",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento7",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento8",
+        "cantidad": 200,
+        "precio": 60
+    }
+]

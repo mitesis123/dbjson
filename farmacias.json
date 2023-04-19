@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Farmacia de 158 y 69",
+        "direccion": "asfgasdf",
+        "telefono": 2342134234,
+        "location": [23.065251647077314,-82.44162855123392]
+    },
+    {
+        "id": 2,
+        "nombre": "Farmacia de Belen",
+        "direccion": "asdfasdfs",
+        "telefono": 2342342,
+        "location": [23.094023219375128,-82.41425356086681]
+    },
+    {
+        "id": 3,
+        "nombre": "Farmacia Principal de 10 de Octubre",
+        "direccion": "awdfasdf",
+        "telefono": 234234,
+        "location": [23.089839582708787,-82.36552611318582]
+    },
+    {
+        "id": 4,
+        "nombre": "Farmacia La Palma",
+        "direccion": "asdfasdf",
+        "telefono": 23423131,
+        "location": [23.074768797402818,-82.35833014541903]
+    },
+    {
+        "id": 5,
+        "nombre": "Farmacia de Dolores",
+        "direccion": "sfdgsdf",
+        "telefono": 24333525,
+        "location": [23.083126014863517,-82.32587173553867]
+    },
+    {
+        "id": 6,
+        "nombre": "Farmacia Internacional Comodoro",
+        "direccion": "asdfsadf",
+        "telefono": 33356456,
+        "location": [23.10928588698852,-82.44414176163227]
+    }
+]

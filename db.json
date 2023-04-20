@@ -45,7 +45,11 @@
 
 ],
 "medicamentos":[
+   {
+    "id":1,    
+    "Medicamentos":[
     {
+        
         "nombre": "Medicamento1",
         "cantidad": 3,
         "precio": 10
@@ -84,4 +88,219 @@
         "cantidad": 200,
         "precio": 60
     }
+]},
+   {
+    "id":2,
+    "Medicamentos":[
+    {
+        "nombre": "Medicamento9",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento10",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento11",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento12",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento13",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento14",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento15",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento16",
+        "cantidad": 200,
+        "precio": 60
+    }]
+},
+    {
+        "id":3,
+        "Medicamentos":[
+        {
+        "nombre": "Medicamento17",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento18",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento19",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento20",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento21",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento22",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento23",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento24",
+        "cantidad": 200,
+        "precio": 60
+    }]
+},
+{
+    "id":4,
+    "Medicamentos":[
+    {
+        "nombre": "Medicamento25",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento26",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento27",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento28",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento29",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento30",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento31",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento32",
+        "cantidad": 200,
+        "precio": 60
+    }]},
+    {
+        "id":5,
+        "Medicamentos":[{
+        "nombre": "Medicamento33",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento34",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento35",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento36",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento37",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento38",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento39",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento40",
+        "cantidad": 200,
+        "precio": 60
+    }
+]},
+{
+    "id":6,
+    "Medicamentos":[{
+        "nombre": "Medicamento41",
+        "cantidad": 3,
+        "precio": 10
+    },
+    {
+        "nombre": "Medicamento42",
+        "cantidad": 1,
+        "precio": 50
+    },
+    {
+        "nombre": "Medicamento43",
+        "cantidad": 0,
+        "precio": 6
+    },
+    {
+        "nombre": "Medicamento44",
+        "cantidad": 1,
+        "precio": 60
+    }, {
+        "nombre": "Medicamento45",
+        "cantidad": 10,
+        "precio": 70
+    },
+    {
+        "nombre": "Medicamento46",
+        "cantidad": 0,
+        "precio": 5
+    },
+    {
+        "nombre": "Medicamento47",
+        "cantidad": 100,
+        "precio": 12
+    },
+    {
+        "nombre": "Medicamento48",
+        "cantidad": 200,
+        "precio": 60
+    }
+
+    ]}
 ]}
+    

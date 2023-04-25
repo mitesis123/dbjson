@@ -5,42 +5,54 @@
         "nombre": "Farmacia de 158 y 69",
         "direccion": "AVE 55 e/23y12",
         "telefono": 2342134234,
-        "location": [23.065251647077314,-82.44162855123392]
+        "location": [23.065251647077314,-82.44162855123392],
+        "municipio":"La Lisa",
+        "provincia":"La Habana"
     },
     {
         "id": 2,
         "nombre": "Farmacia de Belen",
         "direccion": "Calle 83 e/15y16",
         "telefono": 2342342,
-        "location": [23.094023219375128,-82.41425356086681]
+        "location": [23.094023219375128,-82.41425356086681],
+        "municipio":"Marianao",
+        "provincia":"La Habana"
     },
     {
         "id": 3,
         "nombre": "Farmacia Principal de 10 de Octubre",
         "direccion": "AVE 14 e/calle1 y calle2",
         "telefono": 234234,
-        "location": [23.089839582708787,-82.36552611318582]
+        "location": [23.089839582708787,-82.36552611318582],
+        "municipio":"10 de Octubre",
+        "provincia":"La Habana"
     },
     {
         "id": 4,
         "nombre": "Farmacia La Palma",
         "direccion": "Calle 100 e/120y118",
         "telefono": 23423131,
-        "location": [23.074768797402818,-82.35833014541903]
+        "location": [23.074768797402818,-82.35833014541903],
+        "municipio":"Arroyo Naranjo",
+        "provincia":"La Habana"
     },
     {
         "id": 5,
         "nombre": "Farmacia de Dolores",
         "direccion": "AVE 5 e/calle4 y calle5",
         "telefono": 24333525,
-        "location": [23.083126014863517,-82.32587173553867]
+        "location": [23.083126014863517,-82.32587173553867],
+        "municipio":"Lawton",
+        "provincia":"La Habana"
     },
     {
         "id": 6,
         "nombre": "Farmacia Internacional Comodoro",
         "direccion": "AVE 115 e/A y B",
         "telefono": 33356456,
-        "location": [23.10928588698852,-82.44414176163227]
+        "location": [23.10928588698852,-82.44414176163227],
+        "municipio":"Playa",
+        "provincia":"La Habana"
     }
 
 ],
